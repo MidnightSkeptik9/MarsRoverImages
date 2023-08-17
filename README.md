@@ -3,6 +3,6 @@ This is a simple program written in python that allows you to download mars rove
 
 ## How do I get an API key?
 
-1. Go to api.nasa.gov
+1. Go to [the NASA API website](api.nasa.gov)
 2. Scroll down to the sign up page and put your info in there.
 3. After that, you will receive an API key in your inbox within a few minutes.
