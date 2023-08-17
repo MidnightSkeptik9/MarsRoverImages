@@ -10,4 +10,4 @@ This is a simple program written in python that allows you to download mars rove
 ## Example images downloaded from the NASA API
 
 ![Mars Image 1](ExamplePictures/Image1.jpg)
-![Mars Image 2](ExamplePictures/Image2.jpg)
+![Mars Image 2](ExamplePictures/Image2.JPG)
